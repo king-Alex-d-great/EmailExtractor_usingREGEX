@@ -36,10 +36,11 @@ namespace EmailExtractionService
             }
             else
             {
-                subMenu:
+                
                 Console.WriteLine();
                 Console.WriteLine("OOPS! Your input does not contain any email, \nIf you Think something is wrong, Please try again");
                 Console.WriteLine();
+                subMenu:
                 Console.WriteLine("Press");
                 Console.WriteLine("1: Try again");
                 Console.WriteLine("2: Exit Email Extractor");
