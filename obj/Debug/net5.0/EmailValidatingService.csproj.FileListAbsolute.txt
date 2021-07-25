@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\EmailValidatingService.exe
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\EmailValidatingService.deps.json
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\EmailValidatingService.runtimeconfig.json
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\EmailValidatingService.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\EmailValidatingService.dll
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\ref\EmailValidatingService.dll
+C:\Users\HP\source\repos\EmailValidatingService\bin\Debug\net5.0\EmailValidatingService.pdb
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.dll
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\ref\EmailValidatingService.dll
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.pdb
+C:\Users\HP\source\repos\EmailValidatingService\obj\Debug\net5.0\EmailValidatingService.genruntimeconfig.cache
